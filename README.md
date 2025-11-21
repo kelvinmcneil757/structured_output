@@ -2,6 +2,9 @@
 
 This project demonstrates how to extract structured data from a PDF commercial invoice using OpenAI's Large Language Models (LLMs). It compares two approaches to parsing unstructured data: a naive prompt-based approach and a robust schema-based approach using OpenAI's Structured Outputs.
 
+## Youtube Video of me presenting the Content
+https://youtu.be/aafTVJuGCtc
+
 ## Overview
 
 The Jupyter notebook `invoice_llm_parsing_demo.ipynb` walks through the following steps:
